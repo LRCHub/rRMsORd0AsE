@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Turn Off The Light",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-13T09:49:56.497391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/01_Turn_Off_The_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "New Volume",
+      "has_synced": false,
+      "path": "select/02_Turn_Off_The_Light_New_Volume.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/03_Turn_Off_The_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Turn off the Light",
+      "artist": "Desmod",
+      "has_synced": false,
+      "path": "select/04_Turn_off_the_Light_Desmod.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn off the light",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/05_Turn_off_the_light_鈴木雅之.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Fiestar",
+      "has_synced": true,
+      "path": "select/06_Turn_Off_The_Light_Fiestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/07_Turn_Off_The_Light_Daichi_Miura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn off the Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/08_Turn_off_the_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/09_Turn_Off_The_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Turn Off The Light",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/10_Turn_Off_The_Light_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turn Off the Light",
+      "artist": "Brainstorm",
+      "has_synced": false,
+      "path": "select/11_Turn_Off_the_Light_Brainstorm.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turn Off the Light",
+      "artist": "Furtado, Nelly",
+      "has_synced": true,
+      "path": "select/12_Turn_Off_the_Light_Furtado,_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TURN OFF THE LIGHT (MINO SOLO)",
+      "artist": "WINNER",
+      "has_synced": true,
+      "path": "select/13_TURN_OFF_THE_LIGHT_(MINO_SOLO)_WINNER.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn Off the Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/14_Turn_Off_the_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn Off the Light",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/15_Turn_Off_the_Light_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Turn Off The Light",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Turn_Off_The_Light_三浦_大知.txt"
+    }
+  ]
+}
